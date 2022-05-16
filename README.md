@@ -1,16 +1,16 @@
 <div><h1 align="center">Olá, eu sou o Flavio Viera! 🖖</h1></div>
 <div align="center">
 <a href="https://www.instagram.com/flavio.g.viera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
-
+  
 
 <h2 align="center">Este é o meu cartão portfólio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👉 
 <a href="https://flavioviera.github.io/Meu-cartao-pessoal/" target="_blank"><img src="https://badgen.net/badge/Portfólio/Flavio/:blue?" target="_blank"></a> 
 </h2>
-
-![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioviera&show_icons=true&theme=highcontrast) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioviera&layout=compact)](https://github.com/flavioviera/github-readme-stats)
+<div>
+<a href="https://github.com/FlavioViera">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flavioviera&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioviera&theme=highcontrast&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 ## Tecnologias que estudo, e mais gosto de usar: 
