@@ -4,7 +4,7 @@
   
 
 <h2 align="center">Este é o meu cartão portfólio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👉 
-<a href="https://flavioviera.github.io/Meu-cartao-pessoal/" rel="external" target="_blank"><img src="https://badgen.net/badge/Portfólio/Flavio/:blue?" target="_blank"></a> 
+<a href="https://flavioviera.github.io/Meu-cartao-pessoal/" target="_blank"><img src="https://badgen.net/badge/Portfólio/Flavio/:blue?" target="_blank"></a> 
 </h2>
 <div>
 <a href="https://github.com/FlavioViera">
