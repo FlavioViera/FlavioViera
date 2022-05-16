@@ -22,9 +22,11 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
+  </div>
   
-  ![Snake animation](https://github.com/flavioviera/flavioviera/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
   
-
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
