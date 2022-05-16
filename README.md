@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio.g.viera/)
 
-## Este é o meu cartão portfolio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👇
+## Este é o meu cartão portfólio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👇
 
 [![Portfolio](https://badgen.net/badge/Flavio/Portfolio/:blue?)](https://flavioviera.github.io/Meu-cartao-pessoal/)
 
