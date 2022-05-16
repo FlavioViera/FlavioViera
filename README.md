@@ -1,4 +1,5 @@
-### Olá, eu sou o Flavio Viera! 🖖
+<div>
+  <h1 align="center">Olá, eu sou o Flavio Viera! 🖖</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio.g.viera/)
 
@@ -7,7 +8,7 @@
 ![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioviera&show_icons=true&theme=highcontrast) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioviera&layout=compact)](https://github.com/flavioviera/github-readme-stats)
-
+</div>
 
 ## Tecnologias que estudo, e mais gosto de usar: 
 
