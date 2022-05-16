@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá, eu sou o Flavio Viera! 🖖</h1>
   </div>
-<div align="center"> 
+<div align="center"><br>
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio.g.viera/)
  </div>
 
