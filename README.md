@@ -1,8 +1,9 @@
 <div>
   <h1 align="center">Olá, eu sou o Flavio Viera! 🖖</h1>
-
+  </div>
+<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio.g.viera/)
-
+</div>
 ## Este é o meu cartão portfólio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👉 [![Portfolio](https://badgen.net/badge/Portfólio/Flavio/:blue?)](https://flavioviera.github.io/Meu-cartao-pessoal/)
 
 ![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioviera&show_icons=true&theme=highcontrast) 
