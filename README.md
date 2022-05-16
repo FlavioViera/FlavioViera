@@ -4,7 +4,9 @@
   </div>
 
 
-<h2 align="center">Este é o meu cartão portfólio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👉 [![Portfolio](https://badgen.net/badge/Portfólio/Flavio/:blue?)](https://flavioviera.github.io/Meu-cartao-pessoal/)</h2>
+<h2 align="center">Este é o meu cartão portfólio, irei aprimorar ele a medida que vou aprendendo novos codigos e linguagens 👉 
+[![Portfolio](https://badgen.net/badge/Portfólio/Flavio/:blue?)](https://flavioviera.github.io/Meu-cartao-pessoal/) 
+</h2>
 
 ![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioviera&show_icons=true&theme=highcontrast) 
 
